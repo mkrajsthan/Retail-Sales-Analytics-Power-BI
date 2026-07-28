@@ -39,7 +39,7 @@ dashboard covering revenue, regional, product, and customer performance.
 
 <img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/3fb9bf12-0e4f-456d-9926-1a90086b93ff" />
 <img width="1515" height="848" alt="image" src="https://github.com/user-attachments/assets/9a7301d5-e36f-4436-b2dd-68c32e16b6ca" />
-<img width="1515" height="849" alt="image" src="https://github.com/user-attachments/assets/e274d431-f161-4ee8-9e8a-071eb202f476" />
+<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/1a97fdfc-e45c-40c1-a311-e4dead104672" />
 <img width="1516" height="852" alt="image" src="https://github.com/user-attachments/assets/a55622a5-5bad-4d79-be6d-9955b9ec85a6" />
 <img width="1515" height="852" alt="image" src="https://github.com/user-attachments/assets/82ab23c5-c162-4495-a5d0-40bedc63d4ac" />
 
@@ -64,18 +64,7 @@ dashboard covering revenue, regional, product, and customer performance.
 - Repeat customers make up 46% of the customer base but drive 67% of total
   revenue, spending 2.4x more than one-time buyers.
 
-## 🛠️ Repository Structure
-
-```
-├── powerbi/       Power BI .pbix file 
-├── sql/           Business analysis queries (T-SQL)
-├── dax/           DAX measures library
-├── docs/          Dashboard blueprint & summary report
-├── screenshots/   Dashboard page exports
-└── data/          Sample dataset
-```
-
 ## Author
 
-**Manish Kumar** — Market Data Operations professional
+**Manish Kumar** — Market Research Data Operations professional
 [LinkedIn](https://linkedin.com/in/manish-kumar3112)
